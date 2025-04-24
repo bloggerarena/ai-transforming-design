@@ -1,4 +1,4 @@
-# **[5 Ways that AI is Transforming the Design Industry]{.mark}**
+  # **5 Ways that AI is Transforming the Design Industry**
 
 It is very likely that you recently saw a remarkable piece of art on
 someone's social media and got the shock of your life when you found out
