@@ -33,8 +33,8 @@ can do that and simultaneously provide suggestions for design
 improvements... all within seconds. Designers can handpick the best
 suggestions and approve the adjustments based on that data. In addition,
 open to all AI gear like AI logo maker tools can assist designers in
-[[creating logos and other
-graphics]{.underline}](https://www.logodesign.net/logos). With
+[creating logos and other
+graphics](https://www.logodesign.net/logos). With
 AI-generated designs, designers can quickly create multiple prototypes
 for A/B testing, leading to more effective designs that resonate with
 users.
@@ -45,8 +45,8 @@ Designers often have to tackle mundane tasks such as localization and
 creating the same graphics in multiple languages. However, with the rise
 of AI, designers can now work smarter and more efficiently. Streaming
 giant Netflix is already leveraging augmented intelligence systems to
-translate [[artwork
-personalization]{.underline}](https://netflixtechblog.com/artwork-personalization-c589f074ad76)
+translate [artwork
+personalization](https://netflixtechblog.com/artwork-personalization-c589f074ad76)
 and localization of show banners into various languages. This has been
 their practice since 2017. By analyzing the master version, the system
 produces personalized and localized graphics at a rapid pace. Designers
@@ -56,8 +56,8 @@ if necessary, freeing up time for more creative and strategic work.
 ## **3.** **Images Enhancement Made Easier**
 
 Photo editing has come a long way since Calvert Richard Jones manually
-blacked out a Capuchin monk in a [[photograph in
-1841]{.underline}](https://timesofmalta.com/articles/view/four-friars-not-five.805299).
+blacked out a Capuchin monk in a [photograph in
+1841](https://timesofmalta.com/articles/view/four-friars-not-five.805299).
 Nowadays, designers use advanced software to fix imperfections in
 photos. AI-based image enhancement tools can take it a step further by
 easily transforming pixelated, noisy, blurry images into high-quality,
@@ -93,8 +93,8 @@ professional-looking designs without the need for advanced artistic
 skills. With these tools, anyone can create beautiful, high-quality
 images and designs.
 
-This [[democratization of
-design]{.underline}](https://uizard.io/blog/democratizing-design-a-conversation/)
+This [democratization of
+design](https://uizard.io/blog/democratizing-design-a-conversation/)
 will enable people with unique perspectives and ideas to break into the
 industry and create visuals that resonate with audiences in new and
 innovative ways. The design landscape is about to become more diverse
